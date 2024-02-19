@@ -15,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsabhinavm&show_icons=true&locale=en" alt="itsabhinavm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsabhinavm&" alt="itsabhinavm" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsAbhinavM&label=Profile%20views&color=0e75b6&style=flat" alt="itsAbhinavM" /> </p>
