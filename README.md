@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Abhinav M</h1>
-<h3 align="center">A Driven computer science enthusiast, particularly passionate about mobile app development using Flutter. Possesses strong proficiency in Flutter framework and working knowledge of web development principles. Also familiar with basic React and Java concepts. Eager to learn and contribute, actively seeking opportunities to apply my skills and deepen programming .knowledge.</h3>
+<!-- <h3 align="center">A Driven computer science enthusiast, particularly passionate about mobile app development using Flutter. Possesses strong proficiency in Flutter framework and working knowledge of web development principles. Also familiar with basic React and Java concepts. Eager to learn and contribute, actively seeking opportunities to apply my skills and deepen programming .knowledge.</h3> -->
 <hr>
 <h3>✨ About Me:</h3>
 <b>🎓 Computer Science and Engineering undergrad @Amrita Vishwa Vidyapeetham -Amritapuri Campus <br>💻 Member @amFOSS <br>🌐 Currently learning Android Dev , flutter </b>
